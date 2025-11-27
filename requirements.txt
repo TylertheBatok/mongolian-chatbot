@@ -1,0 +1,7 @@
+Flask
+Flask-SocketIO
+Flask-RESTful
+Flask-Cors
+requests
+numpy
+pandas
